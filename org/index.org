@@ -1,0 +1,42 @@
+#+TITLE: R Training
+#+AUTHOR: Dale Barr
+#+OPTIONS: toc:nil ^:nil num:nil
+
+* Training Sessions
+
+All trainings sessions take place in Boyd Orr, Room 517.
+
+| Mo | Nov 30 | 2015 | 14:00--15:30 | [[file:the_basics/index.org::*Why%20learn%20R?][The basics, part 1]]        |
+| Tu | Dec 08 | 2015 | 13:00--14:30 | [[file:the_basics/index.org][The basics, part 2]]        |
+| Th | Jan 21 | 2016 | 15:10--16:40 | [[http://talklab.psy.gla.ac.uk/r_training/moodle][Calculating grades]]        |
+| Th | Jan 28 | 2016 | 15:30--17:00 | Analyzing moodle activity |
+| Th | Feb 04 | 2016 | 15:30--17:00 |                           |
+| Th | Feb 25 | 2016 | 15:30--17:00 |                           |
+| Th | Mar 03 | 2016 | 15:30--17:00 |                           |
+| Th | Mar 10 | 2016 | 15:30--17:00 |                           |
+| Th | Mar 17 | 2016 | 15:30--17:00 |                           |
+| We | Apr 13 | 2016 | 15:30--17:00 |                           |
+| We | Apr 20 | 2016 | 15:30--17:00 |                           |
+| We | Apr 28 | 2016 | 15:30--17:00 |                           |
+
+* Recommended Links and Readings
+
+- [[file:install/index.org][Installing R]]
+
+** Online tutorials
+
+- [[http://swirlstats.com]]
+- [[http://tryr.codeschool.com]]
+- https://www.datacamp.com/courses/free-introduction-to-r
+
+** Cheat sheets
+
+- [[http://www.rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf][RMarkdown cheat sheet]]
+- [[https://www.rstudio.com/wp-content/uploads/2015/02/data-wrangling-cheatsheet.pdf][RStudio data wrangling cheat sheet]]
+
+** Other
+
+- type =browseVignettes("name_of_add_on_package")= in R
+- [[https://twitter.com/search?q=%2523rstats][#rstats on twitter]]
+
+- [[http://r4ds.had.co.nz/relational-data.html][Grolemund and Wickham on Relational Data]]

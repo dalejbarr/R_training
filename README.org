@@ -1,0 +1,6 @@
+#+TITLE: Source files for staff training in R
+#+AUTHOR: Dale Barr
+#+OPTIONS: toc:nil num:nil
+#+DATE: January 2016
+
+* TODO instructions for publishing to web
