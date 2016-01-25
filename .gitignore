@@ -1,0 +1,6 @@
+aux/
+org/*/ne_setup.org
+*~
+#*
+.#*
+org/*/junk.R

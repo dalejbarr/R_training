@@ -6,18 +6,18 @@
 
 All trainings sessions take place in Boyd Orr, Room 517.
 
-| Mo | Nov 30 | 2015 | 14:00--15:30 | [[file:the_basics/index.org::*Why%20learn%20R?][The basics, part 1]]               |
-| Tu | Dec 08 | 2015 | 13:00--14:30 | [[file:the_basics/index.org][The basics, part 2]]               |
-| Th | Jan 21 | 2016 | 15:10--16:40 | [[http://talklab.psy.gla.ac.uk/r_training/marking][Setting up a grading system in R]] |
-| Th | Jan 28 | 2016 | 15:30--17:00 | [[http://talklab.psy.gla.ac.uk/r_training/moodle][Exploring the Moodle logs]]        |
-| Th | Feb 04 | 2016 | 15:30--17:00 |                                  |
-| Th | Feb 25 | 2016 | 15:30--17:00 |                                  |
-| Th | Mar 03 | 2016 | 15:30--17:00 |                                  |
-| Th | Mar 10 | 2016 | 15:30--17:00 |                                  |
-| Th | Mar 17 | 2016 | 15:30--17:00 |                                  |
-| We | Apr 13 | 2016 | 15:30--17:00 |                                  |
-| We | Apr 20 | 2016 | 15:30--17:00 |                                  |
-| We | Apr 28 | 2016 | 15:30--17:00 |                                  |
+| Mo | Nov 30 | 2015 | 14:00--15:30 | [[file:the_basics/index.org::*Why%20learn%20R?][The basics, part 1]]            |
+| Tu | Dec 08 | 2015 | 13:00--14:30 | [[file:the_basics/index.org][The basics, part 2]]            |
+| Th | Jan 21 | 2016 | 15:10--16:40 | [[file:marking/index.org][Using R in student assessment]] |
+| Th | Jan 28 | 2016 | 15:30--17:00 | [[file:moodle/index.org][Exploring the Moodle logs]]     |
+| Th | Feb 04 | 2016 | 15:30--17:00 |                               |
+| Th | Feb 25 | 2016 | 15:30--17:00 |                               |
+| Th | Mar 03 | 2016 | 15:30--17:00 |                               |
+| Th | Mar 10 | 2016 | 15:30--17:00 |                               |
+| Th | Mar 17 | 2016 | 15:30--17:00 |                               |
+| We | Apr 13 | 2016 | 15:30--17:00 |                               |
+| We | Apr 20 | 2016 | 15:30--17:00 |                               |
+| We | Apr 28 | 2016 | 15:30--17:00 |                               |
 
 * Recommended Links and Readings
 
