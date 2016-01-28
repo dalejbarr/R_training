@@ -36,7 +36,7 @@ All trainings sessions take place in Boyd Orr, Room 517.
 
 ** Other
 
+- [[http://adv-r.had.co.nz/Style.html][Style guide for R programming]] (from Hadley Wickham's /Advanced R/)
 - type =browseVignettes("name_of_add_on_package")= in R
 - [[https://twitter.com/search?q=%2523rstats][#rstats on twitter]]
-
 - [[http://r4ds.had.co.nz/relational-data.html][Grolemund and Wickham on Relational Data]]
